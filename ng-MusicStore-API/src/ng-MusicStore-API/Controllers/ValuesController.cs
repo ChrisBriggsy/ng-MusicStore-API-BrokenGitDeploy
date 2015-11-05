@@ -13,7 +13,7 @@ namespace ng_MusicStore_API.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "value01", "value02" };
+            return new string[] { "value1", "value2" };
         }
 
         // GET api/values/5
