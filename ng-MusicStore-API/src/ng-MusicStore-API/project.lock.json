@@ -1178,42 +1178,6 @@
           "lib/dnx451/Microsoft.Framework.Logging.Abstractions.dll": {}
         }
       },
-      "Microsoft.Framework.Logging.Console/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8"
-        },
-        "frameworkAssemblies": [
-          "Microsoft.CSharp",
-          "mscorlib",
-          "System",
-          "System.Core"
-        ],
-        "compile": {
-          "lib/dnx451/Microsoft.Framework.Logging.Console.dll": {}
-        },
-        "runtime": {
-          "lib/dnx451/Microsoft.Framework.Logging.Console.dll": {}
-        }
-      },
-      "Microsoft.Framework.Logging.Debug/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8"
-        },
-        "frameworkAssemblies": [
-          "Microsoft.CSharp",
-          "mscorlib",
-          "System",
-          "System.Core"
-        ],
-        "compile": {
-          "lib/dnx451/Microsoft.Framework.Logging.Debug.dll": {}
-        },
-        "runtime": {
-          "lib/dnx451/Microsoft.Framework.Logging.Debug.dll": {}
-        }
-      },
       "Microsoft.Framework.OptionsModel/1.0.0-beta8": {
         "type": "package",
         "dependencies": {
@@ -2440,37 +2404,6 @@
         },
         "runtime": {
           "lib/dnxcore50/Microsoft.Framework.Logging.Abstractions.dll": {}
-        }
-      },
-      "Microsoft.Framework.Logging.Console/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8",
-          "System.Console": "4.0.0-beta-23409",
-          "System.IO": "4.0.11-beta-23409",
-          "System.Runtime": "4.0.21-beta-23409",
-          "System.Threading": "4.0.11-beta-23409"
-        },
-        "compile": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Console.dll": {}
-        },
-        "runtime": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Console.dll": {}
-        }
-      },
-      "Microsoft.Framework.Logging.Debug/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8",
-          "System.Collections": "4.0.11-beta-23409",
-          "System.Globalization": "4.0.11-beta-23409",
-          "System.Linq": "4.0.1-beta-23409"
-        },
-        "compile": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Debug.dll": {}
-        },
-        "runtime": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Debug.dll": {}
         }
       },
       "Microsoft.Framework.OptionsModel/1.0.0-beta8": {
@@ -4629,42 +4562,6 @@
           "lib/dnx451/Microsoft.Framework.Logging.Abstractions.dll": {}
         }
       },
-      "Microsoft.Framework.Logging.Console/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8"
-        },
-        "frameworkAssemblies": [
-          "Microsoft.CSharp",
-          "mscorlib",
-          "System",
-          "System.Core"
-        ],
-        "compile": {
-          "lib/dnx451/Microsoft.Framework.Logging.Console.dll": {}
-        },
-        "runtime": {
-          "lib/dnx451/Microsoft.Framework.Logging.Console.dll": {}
-        }
-      },
-      "Microsoft.Framework.Logging.Debug/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8"
-        },
-        "frameworkAssemblies": [
-          "Microsoft.CSharp",
-          "mscorlib",
-          "System",
-          "System.Core"
-        ],
-        "compile": {
-          "lib/dnx451/Microsoft.Framework.Logging.Debug.dll": {}
-        },
-        "runtime": {
-          "lib/dnx451/Microsoft.Framework.Logging.Debug.dll": {}
-        }
-      },
       "Microsoft.Framework.OptionsModel/1.0.0-beta8": {
         "type": "package",
         "dependencies": {
@@ -6033,42 +5930,6 @@
           "lib/dnx451/Microsoft.Framework.Logging.Abstractions.dll": {}
         }
       },
-      "Microsoft.Framework.Logging.Console/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8"
-        },
-        "frameworkAssemblies": [
-          "Microsoft.CSharp",
-          "mscorlib",
-          "System",
-          "System.Core"
-        ],
-        "compile": {
-          "lib/dnx451/Microsoft.Framework.Logging.Console.dll": {}
-        },
-        "runtime": {
-          "lib/dnx451/Microsoft.Framework.Logging.Console.dll": {}
-        }
-      },
-      "Microsoft.Framework.Logging.Debug/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8"
-        },
-        "frameworkAssemblies": [
-          "Microsoft.CSharp",
-          "mscorlib",
-          "System",
-          "System.Core"
-        ],
-        "compile": {
-          "lib/dnx451/Microsoft.Framework.Logging.Debug.dll": {}
-        },
-        "runtime": {
-          "lib/dnx451/Microsoft.Framework.Logging.Debug.dll": {}
-        }
-      },
       "Microsoft.Framework.OptionsModel/1.0.0-beta8": {
         "type": "package",
         "dependencies": {
@@ -7298,37 +7159,6 @@
         },
         "runtime": {
           "lib/dnxcore50/Microsoft.Framework.Logging.Abstractions.dll": {}
-        }
-      },
-      "Microsoft.Framework.Logging.Console/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8",
-          "System.Console": "4.0.0-beta-23409",
-          "System.IO": "4.0.11-beta-23409",
-          "System.Runtime": "4.0.21-beta-23409",
-          "System.Threading": "4.0.11-beta-23409"
-        },
-        "compile": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Console.dll": {}
-        },
-        "runtime": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Console.dll": {}
-        }
-      },
-      "Microsoft.Framework.Logging.Debug/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8",
-          "System.Collections": "4.0.11-beta-23409",
-          "System.Globalization": "4.0.11-beta-23409",
-          "System.Linq": "4.0.1-beta-23409"
-        },
-        "compile": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Debug.dll": {}
-        },
-        "runtime": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Debug.dll": {}
         }
       },
       "Microsoft.Framework.OptionsModel/1.0.0-beta8": {
@@ -9722,37 +9552,6 @@
           "lib/dnxcore50/Microsoft.Framework.Logging.Abstractions.dll": {}
         }
       },
-      "Microsoft.Framework.Logging.Console/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8",
-          "System.Console": "4.0.0-beta-23409",
-          "System.IO": "4.0.11-beta-23409",
-          "System.Runtime": "4.0.21-beta-23409",
-          "System.Threading": "4.0.11-beta-23409"
-        },
-        "compile": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Console.dll": {}
-        },
-        "runtime": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Console.dll": {}
-        }
-      },
-      "Microsoft.Framework.Logging.Debug/1.0.0-beta8": {
-        "type": "package",
-        "dependencies": {
-          "Microsoft.Framework.Logging.Abstractions": "1.0.0-beta8",
-          "System.Collections": "4.0.11-beta-23409",
-          "System.Globalization": "4.0.11-beta-23409",
-          "System.Linq": "4.0.1-beta-23409"
-        },
-        "compile": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Debug.dll": {}
-        },
-        "runtime": {
-          "lib/dnxcore50/Microsoft.Framework.Logging.Debug.dll": {}
-        }
-      },
       "Microsoft.Framework.OptionsModel/1.0.0-beta8": {
         "type": "package",
         "dependencies": {
@@ -12083,42 +11882,6 @@
         "Microsoft.Framework.Logging.Abstractions.1.0.0-beta8.nupkg",
         "Microsoft.Framework.Logging.Abstractions.1.0.0-beta8.nupkg.sha512",
         "Microsoft.Framework.Logging.Abstractions.nuspec"
-      ]
-    },
-    "Microsoft.Framework.Logging.Console/1.0.0-beta8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "Ut68lma54EQo9YEv1rGwjcUYsEfWFkvPUlEz5JMwWN9Thn0CtTIrrl7/1zNq2KUpF2GFMluOE8BI8cmhdmYM+A==",
-      "files": [
-        "lib/dnx451/Microsoft.Framework.Logging.Console.dll",
-        "lib/dnx451/Microsoft.Framework.Logging.Console.xml",
-        "lib/dnxcore50/Microsoft.Framework.Logging.Console.dll",
-        "lib/dnxcore50/Microsoft.Framework.Logging.Console.xml",
-        "lib/dotnet/Microsoft.Framework.Logging.Console.dll",
-        "lib/dotnet/Microsoft.Framework.Logging.Console.xml",
-        "lib/net45/Microsoft.Framework.Logging.Console.dll",
-        "lib/net45/Microsoft.Framework.Logging.Console.xml",
-        "Microsoft.Framework.Logging.Console.1.0.0-beta8.nupkg",
-        "Microsoft.Framework.Logging.Console.1.0.0-beta8.nupkg.sha512",
-        "Microsoft.Framework.Logging.Console.nuspec"
-      ]
-    },
-    "Microsoft.Framework.Logging.Debug/1.0.0-beta8": {
-      "type": "package",
-      "serviceable": true,
-      "sha512": "VAnYlP9IJ2ZIuHaDdMc8JzIfb3BNHhf08kTKDeMOEy2Q2cCnjKt7UOLFyMhJX52Is1U+WGeoMvogc+WY1GRR8g==",
-      "files": [
-        "lib/dnx451/Microsoft.Framework.Logging.Debug.dll",
-        "lib/dnx451/Microsoft.Framework.Logging.Debug.xml",
-        "lib/dnxcore50/Microsoft.Framework.Logging.Debug.dll",
-        "lib/dnxcore50/Microsoft.Framework.Logging.Debug.xml",
-        "lib/dotnet/Microsoft.Framework.Logging.Debug.dll",
-        "lib/dotnet/Microsoft.Framework.Logging.Debug.xml",
-        "lib/net45/Microsoft.Framework.Logging.Debug.dll",
-        "lib/net45/Microsoft.Framework.Logging.Debug.xml",
-        "Microsoft.Framework.Logging.Debug.1.0.0-beta8.nupkg",
-        "Microsoft.Framework.Logging.Debug.1.0.0-beta8.nupkg.sha512",
-        "Microsoft.Framework.Logging.Debug.nuspec"
       ]
     },
     "Microsoft.Framework.OptionsModel/1.0.0-beta8": {
@@ -15029,10 +14792,7 @@
       "Microsoft.AspNet.IISPlatformHandler >= 1.0.0-beta8",
       "Microsoft.AspNet.Mvc >= 6.0.0-beta8",
       "Microsoft.AspNet.Server.Kestrel >= 1.0.0-beta8",
-      "Microsoft.AspNet.StaticFiles >= 1.0.0-beta8",
-      "Microsoft.Framework.Logging >= 1.0.0-beta8",
-      "Microsoft.Framework.Logging.Console >= 1.0.0-beta8",
-      "Microsoft.Framework.Logging.Debug >= 1.0.0-beta8"
+      "Microsoft.AspNet.StaticFiles >= 1.0.0-beta8"
     ],
     "DNX,Version=v4.5.1": [],
     "DNXCore,Version=v5.0": []
